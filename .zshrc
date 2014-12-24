@@ -86,6 +86,7 @@ alias edit="open -a TextEdit"
 alias src="source ~/.zshrc"
 alias zshrc="lime ~/.zshrc"
 alias home="cd ~"
+alias g="git"
 
 function gcap() {
     git add .;

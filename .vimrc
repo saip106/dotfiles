@@ -69,7 +69,7 @@ set cursorline
 set encoding=utf-8
 set fileencoding=utf-8
 set gdefault
-set guifont=Monaco:h14
+set guifont=Monaco:h16
 set guioptions-=Be
 set guioptions=aAc
 set hlsearch
