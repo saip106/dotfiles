@@ -41,6 +41,11 @@ nnoremap <leader>m :NERDTreeToggle<CR>
 nnoremap <leader>v :e ~/.vimrc<CR>
 nnoremap <leader>V :tabnew ~/.vimrc<CR>
 
+map <C-J> <C-W>j
+map <C-H> <C-W>h
+map <C-K> <C-W>k
+map <C-L> <C-W>l
+
 "nnoremap <leader>a :Ack
 "nnoremap <leader>d :bd<CR>
 "nnoremap <leader>w :w<CR>
